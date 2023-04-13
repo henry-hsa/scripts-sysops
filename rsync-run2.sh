@@ -32,6 +32,7 @@ sync_dir() {
 		REXCLUDES="--exclude ${exc} ${REXCLUDES}"
 	done
 
+## I'm using uncommon ssh port here 12533, change it to your needs
 	${RSYNC} \
 		--rsh="ssh -2 -l root -p 12533" \
 		--group \
