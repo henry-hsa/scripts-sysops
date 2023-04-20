@@ -1,6 +1,7 @@
 #!/bin/sh
 
 
+# backup script based on rsync 
 #------------------------------------------------------------------
 # Settings, customize this, also we're using uncommon ports for ssh
 #------------------------------------------------------------------
