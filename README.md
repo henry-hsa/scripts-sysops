@@ -1,1 +1,1 @@
-# some scripts for sysops
+# some simple usefull scripts for system admin
