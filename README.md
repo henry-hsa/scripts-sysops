@@ -1,1 +1,1 @@
-# some simple usefull scripts for system admin
+# some simple usefull scripts for backup purpose
