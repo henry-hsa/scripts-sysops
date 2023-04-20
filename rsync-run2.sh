@@ -2,10 +2,10 @@
 
 
 #------------------------------------------------------------------
-# Settings, customize this
+# Settings, customize this, also we're using uncommon ports for ssh
 #------------------------------------------------------------------
 
-BACKUP="x.x.x.x:/usr/local/etc"  
+BACKUP="1.1.1.1:/usr/local/etc"  
 BACKUPDIR="/"
 KEEPDAYS=1
 RSYNC="/usr/local/bin/rsync"
